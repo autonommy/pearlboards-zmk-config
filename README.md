@@ -2,7 +2,7 @@
 
 This is the ZMK firmware for all Pearlboards boards.
 You can find more info on our projets here [Pearlboards](https://pearlboards.net/) here [Discord](https://discord.gg/SMuBMmPY) and here [CadlabCNC](https://cadlabcnc.com).
-  <br>
+  <br>d
   <br>
 A huge thanks to the entire ZMK team and my keyboard friends Hedgey, Flawmenco, etc for making all of this possible.
 ## Getting Started
